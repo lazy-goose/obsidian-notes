@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webdev/NodeJS/What is NodeJS.md",
+                "file": "Webdev/NodeJS/1. What is NodeJS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe82f81705f09a6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Webdev/NodeJS/2. Global Objects.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Webdev/NodeJS/What is NodeJS.md",
+                "file": "Webdev/NodeJS/2. Global Objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Webdev/NodeJS/What is NodeJS.md",
+                "file": "Webdev/NodeJS/2. Global Objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Webdev/NodeJS/What is NodeJS.md"
+                "file": "Webdev/NodeJS/2. Global Objects.md"
               }
             }
           }
@@ -148,10 +161,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9516a41a5ba765e",
+  "active": "fe82f81705f09a6b",
   "lastOpenFiles": [
+    "Webdev/NodeJS/1. What is NodeJS.md",
+    "Webdev/NodeJS/2. Global Objects.md",
     "Webdev/NodeJS.md",
-    "Webdev/NodeJS/What is NodeJS.md",
     "Webdev/NodeJS",
     "DataStructures",
     "Notes/Drawing 2023-04-16 21.44.59.excalidraw.md",
