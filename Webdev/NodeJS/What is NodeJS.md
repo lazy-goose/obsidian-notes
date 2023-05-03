@@ -6,6 +6,7 @@ V8 - Chrome C++ Javascript Interpretor
 
 The problem: 
  - Code on client can be modified, especially on browser
+ - One source of truth, combine and process data from many users
 
 Server (Logic):
  - API communications
