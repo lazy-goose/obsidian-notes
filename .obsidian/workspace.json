@@ -8,25 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "29456ab7d77b9ae5",
+            "id": "82d6547e745ba8f5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "805638ab273319f4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notes/Drawing 2023-04-16 21.44.59.excalidraw.md"
+                "file": "Webdev/NodeJS/What is NodeJS.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "75f176b72fe74feb",
@@ -92,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Drawing 2023-04-16 21.44.59.excalidraw.md",
+                "file": "Webdev/NodeJS/What is NodeJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Drawing 2023-04-16 21.44.59.excalidraw.md",
+                "file": "Webdev/NodeJS/What is NodeJS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Drawing 2023-04-16 21.44.59.excalidraw.md"
+                "file": "Webdev/NodeJS/What is NodeJS.md"
               }
             }
           }
@@ -154,9 +148,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "805638ab273319f4",
+  "active": "b9516a41a5ba765e",
   "lastOpenFiles": [
+    "Webdev/NodeJS.md",
+    "Webdev/NodeJS/What is NodeJS.md",
+    "Webdev/NodeJS",
+    "DataStructures",
     "Notes/Drawing 2023-04-16 21.44.59.excalidraw.md",
+    "Webdev",
     "Notes"
   ]
 }
