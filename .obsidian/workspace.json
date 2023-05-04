@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webdev/NodeJS/1. What is NodeJS.md",
+                "file": "Webdev/NodeJS/4. File system.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Webdev/NodeJS/5. Event Module.md",
+                "file": "Webdev/NodeJS/4. File system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Webdev/NodeJS/5. Event Module.md",
+                "file": "Webdev/NodeJS/4. File system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Webdev/NodeJS/5. Event Module.md"
+                "file": "Webdev/NodeJS/4. File system.md"
               }
             }
           }
@@ -204,13 +203,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b9516a41a5ba765e",
+  "active": "82d6547e745ba8f5",
   "lastOpenFiles": [
-    "Webdev/NodeJS/4. File system.md",
     "Webdev/NodeJS/5. Event Module.md",
+    "Webdev/NodeJS/1. What is NodeJS.md",
+    "Webdev/NodeJS/4. File system.md",
     "Webdev/NodeJS/3. Modules & Require.md",
     "Webdev/NodeJS/2. Global Objects.md",
-    "Webdev/NodeJS/1. What is NodeJS.md",
     "Webdev/NodeJS.md",
     "Webdev/NodeJS",
     "DataStructures",
