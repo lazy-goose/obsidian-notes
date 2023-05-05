@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webdev/NodeJS/5. Event Module.md",
+                "file": "Webdev/NodeJS/1. What is NodeJS.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -203,13 +204,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "82d6547e745ba8f5",
+  "active": "d3911106bfe838c8",
   "lastOpenFiles": [
-    "Webdev/NodeJS/3. Modules & Require.md",
-    "Webdev/NodeJS/5. Event Module.md",
+    "Untitled.md",
     "Webdev/NodeJS/4. File system.md",
-    "Webdev/NodeJS/1. What is NodeJS.md",
+    "Webdev/NodeJS/5. Event Module.md",
+    "Webdev/NodeJS/3. Modules & Require.md",
     "Webdev/NodeJS/2. Global Objects.md",
+    "Webdev/NodeJS/1. What is NodeJS.md",
     "Webdev/NodeJS.md",
     "Webdev/NodeJS",
     "DataStructures",
