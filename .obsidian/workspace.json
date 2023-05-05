@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "82d6547e745ba8f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Webdev/NodeJS/5. Event Module.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34d9083f43707b5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Webdev/NodeJS/6. Buffer&Streams.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1beb180680bcbdae",
             "type": "leaf",
             "state": {
@@ -42,57 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fe82f81705f09a6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Webdev/NodeJS/2. Global Objects.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "197d6a71a39f82f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Webdev/NodeJS/3. Modules & Require.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "731b7d2f590ad6bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Webdev/NodeJS/4. File system.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3911106bfe838c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Webdev/NodeJS/5. Event Module.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "75f176b72fe74feb",
@@ -228,11 +156,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1beb180680bcbdae",
+  "active": "b9516a41a5ba765e",
   "lastOpenFiles": [
-    "Webdev/NodeJS/require('path').md",
-    "Webdev/NodeJS/6. Buffer&Streams.md",
     "Webdev/NodeJS/5. Event Module.md",
+    "Webdev/NodeJS/6. Buffer&Streams.md",
+    "Webdev/NodeJS/require('path').md",
     "Webdev/NodeJS/3. Modules & Require.md",
     "Webdev/NodeJS/4. File system.md",
     "Webdev/NodeJS/1. What is NodeJS.md",
