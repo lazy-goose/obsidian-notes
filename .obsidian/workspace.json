@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webdev/NodeJS/6. Buffer&Streams.md",
+                "file": "Webdev/NodeJS/5. Event Module.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "75f176b72fe74feb",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Webdev/NodeJS/6. Buffer&Streams.md",
+                "file": "Webdev/NodeJS/5. Event Module.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Webdev/NodeJS/6. Buffer&Streams.md",
+                "file": "Webdev/NodeJS/5. Event Module.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Webdev/NodeJS/6. Buffer&Streams.md"
+                "file": "Webdev/NodeJS/5. Event Module.md"
               }
             }
           }
@@ -156,10 +155,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b9516a41a5ba765e",
+  "active": "1beb180680bcbdae",
   "lastOpenFiles": [
-    "Webdev/NodeJS/5. Event Module.md",
     "Webdev/NodeJS/6. Buffer&Streams.md",
+    "Webdev/NodeJS/5. Event Module.md",
     "Webdev/NodeJS/require('path').md",
     "Webdev/NodeJS/3. Modules & Require.md",
     "Webdev/NodeJS/4. File system.md",
