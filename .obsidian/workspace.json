@@ -206,7 +206,10 @@
   },
   "active": "d3911106bfe838c8",
   "lastOpenFiles": [
+    "require('path').md",
     "Untitled.md",
+    "Webdev/NodeJS/6. Buffer&Streams.md",
+    "6. Buffer&Streams.md",
     "Webdev/NodeJS/4. File system.md",
     "Webdev/NodeJS/5. Event Module.md",
     "Webdev/NodeJS/3. Modules & Require.md",
