@@ -16,8 +16,31 @@
                 "file": "Drawing 2023-05-05 22.54.56.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "d50f2b747effead5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
+          },
+          {
+            "id": "8bce7e212a6bcc20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Server/Authentification VS Autorization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -91,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drawing 2023-05-05 22.54.56.excalidraw.md",
+                "file": "Server/Authentification VS Autorization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Drawing 2023-05-05 22.54.56.excalidraw.md",
+                "file": "Server/Authentification VS Autorization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drawing 2023-05-05 22.54.56.excalidraw.md"
+                "file": "Server/Authentification VS Autorization.md"
               }
             }
           }
@@ -153,9 +176,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1beb180680bcbdae",
+  "active": "8bce7e212a6bcc20",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Server/Authentification VS Autorization.md",
+    "Server",
     "Drawing 2023-05-05 22.54.56.excalidraw.md",
     "Webdev/NodeJS/5. Event Module.md",
     "Webdev/NodeJS/6. Buffer&Streams.md",
