@@ -38,9 +38,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "846d378fd16bc1f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Server/RSS networking 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "75f176b72fe74feb",
@@ -114,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Server/Authentification VS Autorization.md",
+                "file": "Server/RSS networking 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Server/Authentification VS Autorization.md",
+                "file": "Server/RSS networking 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Server/Authentification VS Autorization.md"
+                "file": "Server/RSS networking 2.md"
               }
             }
           }
@@ -176,9 +189,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8bce7e212a6bcc20",
+  "active": "846d378fd16bc1f3",
   "lastOpenFiles": [
     "Server/Authentification VS Autorization.md",
+    "Server/RSS networking 2.md",
     "Server",
     "Drawing 2023-05-05 22.54.56.excalidraw.md",
     "Webdev/NodeJS/5. Event Module.md",
