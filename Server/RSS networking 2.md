@@ -27,3 +27,7 @@ REST - Representational state transfer: architectrul style for implementing API
   6.2 - Resource manipulation through implementation (should be enough information to change entry)
   6.3 - Self-descriptive messages (Accept, Content-Type)
   6.4 - Hypermedia as the engine of application state (HATEOAS)
+
+URI -> (URL + URN, URL, URN)
+|_ URL -> link, where
+|_ URN -> name, what (do not used in web)
