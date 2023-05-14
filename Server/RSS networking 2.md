@@ -11,3 +11,13 @@ HTTP-1.1 vs HTTP-2
 
 --
 may not rewrite frontend
+
+--
+REST - Representational state transfer: architectrul style for implementing IP
+
+1 - Client-server
+2 - 
+3 - 
+4 - 
+5 - 
+6 - 
