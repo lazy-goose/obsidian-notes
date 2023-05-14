@@ -16,8 +16,8 @@ may not rewrite frontend
 REST - Representational state transfer: architectrul style for implementing IP
 
 1 - Client-server [server is different from client, API]
-2 - Statelessness [independent requests, they do not know each other], only client contains all necessart in
-3 - 
-4 - 
-5 - 
+2 - Statelessness [independent requests, they do not know each other], only client contains all necessart information
+3 - Cacheability
+4 - Layered system [API hides complexity]
+5 - Code on demand (Optional) [Server can extend client by transfer executable code]
 6 - 
