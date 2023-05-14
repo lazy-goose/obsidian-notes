@@ -18,16 +18,6 @@
             }
           },
           {
-            "id": "d50f2b747effead5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.8"
-              }
-            }
-          },
-          {
             "id": "8bce7e212a6bcc20",
             "type": "leaf",
             "state": {
@@ -52,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,9 +182,9 @@
   "active": "846d378fd16bc1f3",
   "lastOpenFiles": [
     "Server/Authentification VS Autorization.md",
+    "Drawing 2023-05-05 22.54.56.excalidraw.md",
     "Server/RSS networking 2.md",
     "Server",
-    "Drawing 2023-05-05 22.54.56.excalidraw.md",
     "Webdev/NodeJS/5. Event Module.md",
     "Webdev/NodeJS/6. Buffer&Streams.md",
     "Webdev/NodeJS/require('path').md",
