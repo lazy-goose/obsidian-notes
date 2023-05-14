@@ -33,4 +33,4 @@ URI -> (URL + URN, URL, URN)
 |_ URN -> name, what (do not used in web)
 
 api/v1-wrong/NOT_GET_POSTS
-api/v2-good/posts?limit=25&page=1
+api/v2-good/posts?limit=25&page=1 (use GET,POST,)
