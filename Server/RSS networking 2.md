@@ -13,11 +13,16 @@ HTTP-1.1 vs HTTP-2
 may not rewrite frontend
 
 --
+REST???
+
 REST - Representational state transfer: architectrul style for implementing IP
 
-1 - Client-server [server is different from client, API]
-2 - Statelessness [independent requests, they do not know each other], only client contains all necessart information
+1 - Client-server: server is different from client, API
+2 - Statelessness: independent requests, they do not know each other], only client contains all necessart information
 3 - Cacheability
-4 - Layered system [API hides complexity]
-5 - Code on demand (Optional) [Server can extend client by transfer executable code]
-6 - 
+4 - Layered system: API hides complexity
+5 - Code on demand (Optional): server can extend client by transfer executable code
+6 - Uniform interface
+  6.1 - Resource identification in request (indetificated by url)
+  6.2 - Resource manipulation through implementation (should be enough information to change entry)
+  6.3 - Self-descriptive messages
