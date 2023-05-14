@@ -15,7 +15,7 @@ may not rewrite frontend
 --
 REST???
 
-REST - Representational state transfer: architectrul style for implementing IP
+REST - Representational state transfer: architectrul style for implementing API
 
 1 - Client-server: server is different from client, API
 2 - Statelessness: independent requests, they do not know each other], only client contains all necessart information
@@ -25,4 +25,5 @@ REST - Representational state transfer: architectrul style for implementing IP
 6 - Uniform interface
   6.1 - Resource identification in request (indetificated by url)
   6.2 - Resource manipulation through implementation (should be enough information to change entry)
-  6.3 - Self-descriptive messages
+  6.3 - Self-descriptive messages (Accept, Content-Type)
+  6.4 - Hypermedia as the engine of application state (HATEOAS)
