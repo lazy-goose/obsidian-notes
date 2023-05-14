@@ -31,3 +31,6 @@ REST - Representational state transfer: architectrul style for implementing API
 URI -> (URL + URN, URL, URN)
 |_ URL -> link, where
 |_ URN -> name, what (do not used in web)
+
+api/v1/
+api/v2/
